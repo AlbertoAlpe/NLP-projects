@@ -10,4 +10,5 @@ with open(file_path, 'r', encoding='utf-8') as train:
 
 for riga in prime_10_righe:
    riga = riga.split()
+   print(riga)
 
