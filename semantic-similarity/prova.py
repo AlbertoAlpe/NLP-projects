@@ -63,7 +63,7 @@ def calculate_correlations(list, similarity_function):
  
  
  
-#current_dir = os.getcwd()
+current_dir = os.getcwd()
 current_dir = os.path.dirname(__file__) 
 file_name = 'WordSim353.csv'
  
